@@ -2,6 +2,6 @@
   "name": "my_package",
   "version": "1.0.0",
   "dependencies": {
-    "querystringify": "^1.1.0"
+    "querystringify": "^1.2.0"
   }
 }
