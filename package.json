@@ -2,6 +2,7 @@
   "name": "my_package",
   "version": "1.0.0",
   "dependencies": {
-    "querystringify": "^1.2.0"
+    "querystringify": "^1.2.0",
+    "libp2p": "0.37.0"
   }
 }
