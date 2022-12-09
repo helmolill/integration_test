@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "dependencies": {
     "querystringify": "^1.2.0",
-    "libp2p": "0.37.0"
+    "libp2p": "0.27.7"
   }
 }
